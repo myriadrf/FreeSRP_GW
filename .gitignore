@@ -1,0 +1,13 @@
+\#*\#
+*~
+.\#*
+work/
+work.*/
+work_sdk/
+work_sdk.*/
+*.o
+*.a
+*.so
+.Xil/
+/*vivado*
+!*/*vivado*

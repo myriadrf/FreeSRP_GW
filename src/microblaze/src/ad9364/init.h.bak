@@ -1,0 +1,10 @@
+#ifndef AD9364_INIT_H
+#define AD9364_INIT_H
+
+#include "ad9361_api.h"
+
+int init_transceiver(struct ad9361_rf_phy *phy);
+void print_ensm_state(struct ad9361_rf_phy *phy);
+
+#endif
+

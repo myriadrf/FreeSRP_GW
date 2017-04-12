@@ -1,0 +1,5 @@
+./*/
+*/**
+!.gitignore
+!fifo_subsystem.tcl
+!mb_subsystem.tcl
